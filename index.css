@@ -1,0 +1,40 @@
+@import url('https://fonts.cdnfonts.com/css/valorant');
+
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-color: rgb(228, 95, 128);
+    border: 2px solid rgb(224, 94, 116);
+    background-image: url('lotus.jpg');
+    background-color: rgba(0, 0, 0, 0.4);
+    background-blend-mode: multiply;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+
+}
+body{
+    margin: 5px;
+}
+
+.titulo{
+    font-family: 'valorant' ;
+    margin-inline-start: 5px;
+    color: white;
+}
+.empresa{
+    font-family: 'valorant';
+    margin-inline-end: 5px;
+    font-size: 26px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.main{
+    width: 100%
+}
+
